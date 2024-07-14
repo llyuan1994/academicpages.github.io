@@ -22,18 +22,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Liangliang Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Associate Researcher"
+  location         : "80 Nandan Road, Shanghai, China"
+  employer         : "Shanghai Astronomical Observatory, Chinese Acadeymy of Sciences"
+  uri              : "https://llyuan1994.github.io/academicpages.github.io/"
+  email            : "llyuan@shao.ac.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=jqflwhEAAAAJ&hl=en&oi=ao"
   orcid            : "https://orcid.org/0000-0001-6711-107X"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Liangliang-Yuan-2?ev=hdr_xprf&_sg=IsXIV7S0xZ9nV9dOWrnJabDgLAwnVJdeYkmXNkC6OR9DOvGov65zKFGNcxEETH4f9aMAR9AtrvF1_jbY8O8uGw0-&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
+  researchgate     : "
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -44,7 +45,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
