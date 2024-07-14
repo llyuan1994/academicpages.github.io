@@ -16,4 +16,4 @@ Email:
 llyuan@shao.ac.cn
 
 Address: 
-Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Xuhui, Shanghai 200030, China
+Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Xuhui Disctrict, Shanghai 200030, China
