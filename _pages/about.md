@@ -12,8 +12,8 @@ I received my B.Sc after four-year studyding at the School of Astronomy and Spac
 
 My research interests include ionosphere-thermosphere sounding and numerical simulations, ionosphere-thermosphere data assimilation.
 
-Email: 
+Email:  
 llyuan@shao.ac.cn
 
-Address: 
+Address:  
 Shanghai Astronomical Observatory, Chinese Academy of Sciences, 80 Nandan Road, Xuhui Disctrict, Shanghai 200030, China
