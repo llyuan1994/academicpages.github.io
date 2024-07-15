@@ -1,7 +1,6 @@
 ---
 title: "The four‐dimensional variational neustrelitz electron density assimilation model: NEDAM"
 collection: Data Assimilation
-permalink: [/publication/2010-10-01-paper-title-number-2](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022SW003378)
 date: 2023-06-01
 venue: 'Space Weather'
 slidesurl: 'http://academicpages.github.io/files/SW2023.pdf'
