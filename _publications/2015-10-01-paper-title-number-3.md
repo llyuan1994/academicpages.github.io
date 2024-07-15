@@ -1,7 +1,6 @@
 ---
 title: "A new method to estimate GPS satellite and receiver differential code biases using a network of LEO satellites"
 collection: GNSS DCB
-permalink: [/publication/2015-10-01-paper-title-number-3](https://link.springer.com/article/10.1007/s10291-021-01109-y)
 date: 2021-04-01
 venue: 'GPS Solutions'
 slidesurl: 'http://academicpages.github.io/files/GPS2021.pdf'
