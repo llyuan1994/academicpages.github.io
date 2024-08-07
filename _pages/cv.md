@@ -47,4 +47,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of IGS working group T.27
+* Young member of editorial board of Satellite Navigation
