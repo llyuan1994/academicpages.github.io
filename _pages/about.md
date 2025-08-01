@@ -31,7 +31,6 @@ Shanghai 200030, China
 
 **Yuan, L.L.**, T. Kodikara, and M. Hoque
 
-
 </div>
 </div>
 
