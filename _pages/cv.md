@@ -29,9 +29,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Yuan, L.L., T. Kodikara, and M. Hoque (2024), Characterization of the ionospheric vertical error correlation lengths based on global ionosonde observations, Space Weather, 22(3), e2023SW003743, doi: 10.1029/2023SW003743
   
 Talks
 ======
