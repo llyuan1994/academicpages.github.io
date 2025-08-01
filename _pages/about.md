@@ -69,7 +69,7 @@ Shanghai 200030, China
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Thermospheric Cyclonic Cell Structures </div><img src='images/JGR2021.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Observational evidence and formation mechanism of low-density cells in the upper thermosphere on 8 September 2017]( https://doi.org/10.1029/2020JA028915)
+[Observational evidence and formation mechanism of low-density cells in the upper thermosphere on 8 September 2017](https://doi.org/10.1029/2020JA028915)
 
 
 </div>
