@@ -36,12 +36,12 @@ Shanghai 200030, China
 
 ## 🏆 Highlights
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Space Weather 2025</div><img src='images/SW2024.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Assimilation (Space Weather 2025)</div><img src='images/SW2024.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Characterization of the ionospheric vertical error correlation lengths based on global ionosonde observations](https://doi.org/10.1029/2023SW003743)
 
-**Yuan, L.L.**, T. Kodikara, and M. Hoque
+
 
 </div>
 </div>
@@ -51,30 +51,26 @@ Shanghai 200030, China
 
 [The four-dimensional variational Neustrelitz electron density assimilation model](https://doi.org/10.1029/2022SW003378)
 
-**Yuan, L.L.**, M. Hoque and T. Kodikara
 
 </div>
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Space Weather 2025</div><img src='images/GPSS2021.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-layer mapping</div><img src='images/GPSS2021.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A new method to estimate GPS satellite and receiver differential code biases using a network of LEO satellites](https://doi.org/10.1007/s10291-021-01109-y)
 
-**Yuan, L.L.**, M. Hoque and S. Jin
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Space Weather 2025</div><img src='images/JGR2021.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Th</div><img src='images/JGR2021.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Observational evidence and formation mechanism of low-density cells in the upper thermosphere on 8 September 2017]( https://doi.org/10.1029/2020JA028915)
 
-**Yuan, L.L.**, S. Jin
 
 </div>
 </div>
