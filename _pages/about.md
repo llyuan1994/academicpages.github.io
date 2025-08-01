@@ -24,7 +24,7 @@ Shanghai 200030, China
 
 ## 🏆 Highlights
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GPS Solut. 2025</div><img src='images/prague.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Space Weather 2025</div><img src='images/prague.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Characterization of the ionospheric vertical error correlation lengths based on global ionosonde observations](https://doi.org/10.1029/2023SW003743)
