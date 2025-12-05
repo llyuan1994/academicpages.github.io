@@ -18,18 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🙋‍♂️ About me 
 
-I am now an Associate Researcher from Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai, China. Before joining SHAO, I worked as a research associate in 2021-2024 at the Institute for Solar-Terrestrial Physics, German Aerospace Center (DLR), Neustrelitz, Germany.  
+I am currently an Associate Researcher at the Shanghai Astronomical Observatory (SHAO), Chinese Academy of Sciences. Prior to joining SHAO, I was a Research Associate (2021–2024) at the Institute for Solar-Terrestrial Physics, German Aerospace Center in Neustrelitz, Germany.
 
-I received my B.Sc after four-year studying at the School of Astronomy and Space Science of Nanjing University in 2016 and Ph.D in Astrometry and Celestial Mechanics at Shanghai Astronomical Observatory in 2020 (Supervised by Shuanggen Jin, http://202.127.29.4/geodesy/). 
+I earned my Bachelor of Science in Astronomy and Space Science from Nanjing University in 2016 and my Ph.D. in Astrometry and Celestial Mechanics from Shanghai Astronomical Observatory in 2020.
 
-My research interests include ionosphere-thermosphere sounding, numerical simulations, ionospheric data assimilation.
+My research focuses on ionosphere–thermosphere sounding, numerical simulations, and ionospheric data assimilation.
 
 Email: llyuan@shao.ac.cn
 
 Address  
 Shanghai Astronomical Observatory  
 Chinese Academy of Sciences  
-80 Nandan Road, Xuhui Disctrict  
+80 Nandan Road, Xuhui District  
 Shanghai 200030, China
 
 # 📝 Publications 
@@ -91,10 +91,10 @@ Shanghai 200030, China
 
 # 📚 Academic Services
 
-- Invited journal reviewer for JGR, GPS Solutions, IEEE TGRS, Scientific Report
+- Invited journal reviewer for JGR, GPS Solutions, IEEE TGRS, Science Bulletin
 
 # 🎖 Honors and Awards
-- *2025.04*, Young Scientist Award, Satellite Navigation Journal.
+- *2025.04*, Outstanding Presentation Award, Satellite Navigation Journal.
 - *2020.07*, Outstanding Graduate, Beijing.
 
 # 📖 Educations
