@@ -23,7 +23,7 @@ Work experience
   
 Skills
 ======
-* Python, Matlab, Fortran
+* Fortran, Python, Matlab
 * Chinese (native), English (working level), German (introductory level)
 
 
@@ -47,5 +47,6 @@ Teaching
   
 Service and leadership
 ======
+* Member of the Magnetohydrodynamics (MHD) Specialist Group, Chinese Society of Theoretical and Applied Mechanics (CSTAM)
 * Member of IGS working group T.27
 * Young member of editorial board of Satellite Navigation
