@@ -78,7 +78,7 @@ Shanghai 200030, China
 
 
 ## 📑 Selected Publications
-
+- **Yuan, L.L.**, Jakowski, N., Kodikara, T., Hoque, M., Li, L., & Jin, S. (2026). Simultaneous observations of topside mid-latitude plasma troughs and subauroral red arcs: The role of electron heat conduction. Journal of Geophysical Research: Space Physics, 131, e2025JA034758. https://doi.org/10.1029/2025JA034758
 - **Yuan, L.L.**, T. Kodikara, and M. Hoque (2024), Characterization of the ionospheric vertical error correlation lengths based on global ionosonde observations, Space Weather, 22(3), e2023SW003743, doi: 10.1029/2023SW003743
 - **Yuan, L.L.**, M. Hoque, and T. Kodikara (2023), The four-dimensional variational Neustrelitz electron density assimilation model: NEDAM, Space Weather, 21(6), e2022SW003378, doi: 10.1029/2022SW003378
 - Yuan, L.L., M. Hoque, and S.G. Jin (2021), A new method to estimate GPS satellite and receiver differential code biases using a network of LEO satellites, GPS Solut., 25(2), 71, doi: 10.1007/s10291-021-01109-y
@@ -94,6 +94,7 @@ Shanghai 200030, China
 - Invited journal reviewer for JGR, GPS Solutions, IEEE TGRS, Science Bulletin
 
 # 🎖 Honors and Awards
+- *2025.12*, Shanghai Outstanding Overseas Young Scholar.
 - *2025.04*, Outstanding Presentation Award, Satellite Navigation Journal.
 - *2020.07*, Outstanding Graduate, Beijing.
 
