@@ -36,6 +36,16 @@ Shanghai 200030, China
 
 ## 🏆 Highlights
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIT (JGR 2026)</div><img src='images/JGR2026.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simultaneous observations of topside mid‐latitude plasma troughs and subauroral red arcs: The role of electron heat conduction](https://doi.org/10.1029/2025JA034758)
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Data Assimilation (Space Weather 2025)</div><img src='images/SW2024.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
