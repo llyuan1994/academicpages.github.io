@@ -56,7 +56,7 @@ Shanghai 200030, China
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Space Weather 2025</div><img src='images/SW2024.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Space Weather 2025</div><img src='images/SW2023.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The four-dimensional variational Neustrelitz electron density assimilation model](https://doi.org/10.1029/2022SW003378)
